@@ -1,4 +1,12 @@
-## Hi there 👋
+##🎓 Education
+[RUDN University](https://www.rudn.ru/)
+
+##👨‍🏫 Cources
+[Deep Learning School(2023-2024)](https://dls.samcs.ru/)
+[Yandex Training(2023-2024)](https://yandex.ru/yaintern/training/algorithm-training)
+
+##🏆 Competition Background
+[Innopolis University(2021)](https://innopolis.university/?ysclid=mh814ibywx972086197)
 
 <!--
 **gaus2005eulerovich/gaus2005eulerovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
