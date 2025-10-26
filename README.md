@@ -1,5 +1,5 @@
 🎓 **Education**
-[RUDN University](https://www.rudn.ru/)
+- [RUDN University](https://www.rudn.ru/)
 
 👨‍🏫 **Cources**  
 - [Deep Learning School(2023-2024)](https://dls.samcs.ru/)  
