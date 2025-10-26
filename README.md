@@ -13,7 +13,7 @@
 - [FINOPOLIS](https://finopolis.ru/)(**2022**) "Behavioral biometrics identification system"
 - [Yandex Training](https://yandex.ru/yaintern/training/algorithm-training)(**2024**) "Algorithms and data structures" | [Diploma]()
 
-## Languages
+**Languages**
 - Russian - Native
 - English - B2
 
