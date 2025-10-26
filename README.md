@@ -1,9 +1,8 @@
 🎓 **Education**
 [RUDN University](https://www.rudn.ru/)
 
-👨‍🏫 **Cources**
+👨‍🏫 **Cources**  
 [Deep Learning School(2023-2024)](https://dls.samcs.ru/)  
-
 [Yandex Training(2023-2024)](https://yandex.ru/yaintern/training/algorithm-training)  
 
 
