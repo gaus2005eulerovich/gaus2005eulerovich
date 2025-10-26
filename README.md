@@ -1,4 +1,4 @@
-🎓 Education
+🎓 ##Education
 [RUDN University](https://www.rudn.ru/)
 
 👨‍🏫 Cources
