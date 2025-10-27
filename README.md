@@ -3,7 +3,7 @@
 
 👨‍🏫 **Cources**  
 - [Deep Learning School](https://dls.samcs.ru/)(**2023-2024**)
-- [Yandex Training](https://yandex.ru/yaintern/training/algorithm-training)(**2023-2024**) | [Diploma]()
+- [Yandex Training](https://yandex.ru/yaintern/training/algorithm-training)(**2023-2024**) | [Diploma](https://drive.google.com/file/d/13xG5hmGJ1Maf2879NL6ZfiIulLt5-XJX/view?usp=sharing)
 
 
 🏆 **Competition Background**  
