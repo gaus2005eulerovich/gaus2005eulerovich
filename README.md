@@ -1,3 +1,5 @@
+[CV](https://drive.google.com/file/d/1-k6JT8XZ6g7We4xVD8CrIjGejdnLxA24/view?usp=sharing)
+
 🎓 **Education**
 - [RUDN University](https://www.rudn.ru/)(**Since 2023**)
 
