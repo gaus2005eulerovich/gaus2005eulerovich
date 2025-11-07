@@ -1,6 +1,6 @@
 **Max Litvinov**
 
-[CV](https://docs.google.com/document/d/1N1tuE3T-pzx8zmAdIfHllD1VV8DvPPegABJko7epH20/edit?usp=sharing)
+[CV](https://docs.google.com/document/d/1LUsgpoyku_dxp7sMqOI1AVg1PUkQa3aglUvkG0M-5M0/edit?usp=sharing)
 
 🎓 **Education**
 - [RUDN University](https://www.rudn.ru/)(**Since 2023**)
